@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": ".."
+		},
+		{
+			"path": "../../../../inf/2.pololetí/CSS"
 		}
 	],
 	"settings": {}
